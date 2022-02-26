@@ -1,7 +1,7 @@
 # FizzBuzz
  
 - WebElement locators are random.
-- Chrome is the default browser used when browser name is not specified in testing.xml
+- Chrome is the default browser used when browser name is not specified in testng.xml
 
 API test suite is created in Postman and uploaded to folder Postman API collection.
 
